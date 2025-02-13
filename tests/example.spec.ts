@@ -73,6 +73,6 @@ test.describe('Suite 1', () => {
     await clickCartIcon();
     await validateTitleOfPage('Your Cart');
   });
-
+// test new PR
 });
 
